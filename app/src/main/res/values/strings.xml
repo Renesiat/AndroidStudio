@@ -36,5 +36,4 @@
 
     <string name="calc_minus_sign">\u2212</string>
     <string name="calc_divide_by_zero">Cannot divide by zero</string>
-
 </resources>
