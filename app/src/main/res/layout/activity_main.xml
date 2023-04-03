@@ -35,6 +35,12 @@
             android:layout_height="wrap_content"
             android:text="@string/btn_calc_text" />
         <Button
+            android:id="@+id/gameButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:text="@string/btn_game_text" />
+        <Button
             android:id="@+id/exitButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
