@@ -4,8 +4,10 @@
     <!-- Main Activity-->
     <string name="tv_hello_content">Android Basics</string>
     <string name="btn_calc_text">Calculator</string>
+    <string name="btn_rates_text">Rates</string>
     <string name="btn_exit_text">Exit App</string>
     <string name="btn_game_text">Game 2048</string>
+    <string name="btn_chat_text">Chat</string>
 
     <!--2048-->
     <string name="tv_score_pattern">SCORE\n%d</string>
@@ -22,6 +24,12 @@
     <string name="new_game_btn_No">No</string>
     <string name="new_game_btn_Yes">Yes</string>
 
+    <string name="chat_user_name_title">User:</string>
+    <string name="chat_default_user">Someone</string>
+    <string name="chat_message_title">Msg:</string>
+    <string name="chat_default_message">HHH</string>
+
+    <string name="rates_title">Currency rates</string>
 
 
     <!-- Calc Activity-->
