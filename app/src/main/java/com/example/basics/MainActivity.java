@@ -37,6 +37,10 @@ public class MainActivity extends AppCompatActivity {
                 CalcActivity.class ) ;
         startActivity( calcIntent ) ;
     }
+    private void btnRatesClick(View v){
+        Intent ratesIntent = new Intent(MainActivity.this, RatesActivity.class);
+        startActivity( ratesIntent ) ;
+    }
     private void btnExitClick( View v ) {
         finish() ;
     }
