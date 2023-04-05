@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
                 .setOnClickListener( this::btnExitClick ) ;
         findViewById( R.id.gameButton )
                 .setOnClickListener( this::btnGameClick ) ;
+        findViewById(R.id.ratesBtn)
+                .setOnClickListener(this::btnRatesClick);
     }
     private void btnGameClick( View v ) {
         Intent gameIntent = new Intent(
