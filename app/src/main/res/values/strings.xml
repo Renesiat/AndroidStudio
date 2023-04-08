@@ -27,7 +27,9 @@
     <string name="chat_user_name_title">User:</string>
     <string name="chat_default_user">Someone</string>
     <string name="chat_message_title">Msg:</string>
-    <string name="chat_default_message">HHH</string>
+    <string name="chat_default_message"></string>
+    <string name="channel_name">Chat</string>
+    <string name="channel_description">Chat notification channel</string>
 
     <string name="rates_title">Currency rates</string>
 
